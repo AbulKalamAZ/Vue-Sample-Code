@@ -1,10 +1,3 @@
-# bms_frontend
-
-> Solsersoft LTD licensed BMS project front-end
-
-## Build Setup
-
-``` bash
 # install dependencies
 npm install
 
