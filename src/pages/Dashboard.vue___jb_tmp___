@@ -1,0 +1,26 @@
+<template>
+
+  <test></test>
+
+</template>
+
+<script>
+import test from '@/components/test'
+export default {
+  name: 'App',
+  components: {
+    "test": test
+  },
+
+  data () {
+    return {
+      title: 'Dashboard',
+      gradient: 'to bottom, #66BB6A, #81C784'
+
+    }
+  },
+  methods: {
+
+  }
+}
+</script>
